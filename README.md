@@ -27,6 +27,7 @@ The star( * ) symbol under "Mentorship focus area" column means that the mentor 
 | Naman | [@naman](https://github.com/naman) | web/mobile-dev, systems, HCI, <enter> programming language, DevOps, Privacy, Security, * |
 | Raghav Kukreti | [@raghav-kukreti](https://github.com/raghav-kukreti) | web(flask, django, html, css, sass, less, coffeescript, jquery, vue, node {express, sails-js}), databases(mongo, postgres, sqlite), ml/dl(tensorflow, pytorch, sklearn), gui/graphics(qt, unity), hackathons * |
 | Lakshya A Agrawal | [@LakshyAAAgrawal](https://github.com/LakshyAAAgrawal) | [INCF Maxima-GSoC](https://sourceforge.net/u/philomath/maxima_translate/ci/translation_dictionary/tree/share/pytranslate/), Common Lisp, Python|
+| Archit Agrawal | [@nahimilega](https://github.com/nahimilega) | [Software Heritage-GSoC](https://wiki.softwareheritage.org/wiki/Google_Summer_of_Code_2019/Increase_archive_coverage), Python|
 
 # References:
 If you're looking for mentors outside the college, you may find this helpful: [awesome-oss-mentors](https://github.com/lenadroid/awesome-oss-mentors)
